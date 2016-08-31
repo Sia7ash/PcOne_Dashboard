@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="airDestinationFolder" value="C:\Users\Sia7asH\Desktop" />
+	<infoitem key="airDestinationFileName" value="PcOne.Dashboard.v3.1.1.air" />
+	<infoitem key="airChosenCert" value="C:\Users\Sia7asH\Documents\Downloads\asd.p12" />
+	<infoitem key="airPackageType" value="packageAIR" />
+	<infoitem key="airRememberPassword" value="true" />
+	<infoitem key="airFilesList" value="css/#img/#lib/#LICENSE#README#RELEASE#src/" />
+	<infoitem key="airFullFilesList" value="main.html#css/#img/#lib/#LICENSE#README#RELEASE#src/" />
+</info>
