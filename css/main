@@ -1,0 +1,95 @@
+/*
+ * PcOne Dashboard
+ * Copyright (c) 2014-2016 - Sia7asH @ Pcone.Us
+ * A3PIK | man4toman | silenceIsMyFun | Arazar | mammad65 @PcOne.Us
+ * All rights reserved.
+ *
+ * Code licensed under the BSD License
+ */
+
+/* overrides reset.css */
+strong,h3 {font-weight:bold}
+
+/*TODO l: better internet icon*/
+/* DONE : closeall icon*/
+.icon-info{background-image:url(/img/icons/information.png)!important}
+.icon-open{background-image:url(/img/icons/folder.png)!important}
+.icon-save{background-image:url(/img/icons/save_as.png)!important}
+.icon-closeall{background-image:url(/img/icons/close_all.png)!important}
+.icon-nfo{background-image:url(/img/icons/nfo.png)!important}
+
+.icon-post-new{background-image:url(/img/icons/application_form_add.png)!important}
+.btn-linkchecker{background-image:url(/img/icons/link_break.png)!important}
+.btn-bbgencopy{background-image:url(/img/icons/wand.png)!important}
+.btn-autofiller{background-image:url(/img/icons/lightning.png)!important}
+
+.x-form-trigger-edit{background-image:url(/img/icons/trigger_edit.gif)!important}
+/* bbcode editor style */
+.x-html-editor-tb .x-edit-createimg .x-btn-text{background-image:url(/img/icons/image_add.png)}
+
+.x-statusbar .x-status-offline{padding-left:25px;background:transparent url(/img/icons/net_offline.png) no-repeat 3px 0px}
+.x-statusbar .x-status-online{padding-left:25px;background:transparent url(/img/icons/net_online.png) no-repeat 3px 0px}
+.x-statusbar .x-status-disabled{padding-left:25px;background:transparent url(/img/icons/net_disabled.png) no-repeat 3px 0px}
+
+.dir-rtl{direction:rtl}
+.dir-ltr{direction:ltr}
+.align-left{text-align:left!important}
+.align-right{text-align:right!important}
+
+/* TODO l: temporary fix for overriding tooltip directions */
+.x-tip-body { direction: rtl}
+
+/* TODO l: temporary fix for triger icon height problem in webkit engine*/
+.x-form-field-wrap .x-form-trigger{height:19px!important}
+
+.x-panel-rtl {direction:rtl}
+.x-panel-rtl .x-tool{float:left;margin-left:0px;margin-right:2px;}
+.x-panel-rtl .x-panel-header{padding:5px 5px 4px 3px;}
+
+/* TODO : override invalid messages */
+/*.x-form-invalid-msg{padding-left:2px;padding-right:18px;background-position:right;direction:rtl}*/
+
+/*.x-form-invalid-clear{background:#fff !important;border:inherit !important}*/
+
+/** vim: ts=4:sw=4:nu:fdc=4:nospell
+ *
+ * Ext.ux.form.LovCombo CSS File
+ *
+**/
+
+.ux-lovcombo-icon {
+	width:18px;
+	height:18px;
+	float:left;
+	background-position: -1px -1px ! important;
+	background-repeat:no-repeat ! important;
+}
+
+/* TODO: themes ... */
+.ux-lovcombo-icon-checked {
+	background: transparent url(/lib/ext/resources/images/default/menu/checked.gif);
+}
+.ux-lovcombo-icon-unchecked {
+	background: transparent url(/lib/ext/resources/images/default/menu/unchecked.gif);
+}
+
+.flt-lt {float: left}
+.flt-rt {float: right}
+
+/* ----- clear fix for floats ----- */
+/* these styles instruct non-IE browsers to render container elements so that they fully enclose floats */
+/* without this class applied, a float might hang over the bottom border of it's container */
+.clearfix:after { content: "."; display:block; height:0; clear:both; visibility:hidden; }
+.clearfix { display:-moz-inline-block; display:-moz-inline-box; display:inline-block; }
+
+/* hides clearfix from IE-mac \*/
+* html .clearfix { height:1%; }
+.clearfix { display:block; }
+/* end hide from IE-mac */
+
+/*
+ TinyMCE
+*/
+.mceToolbar {
+	vertical-align: middle !important
+}
