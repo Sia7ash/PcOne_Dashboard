@@ -1,0 +1,73 @@
+PcOne Dashboard v3.1.1
+
+RELEASE NOTE
+
+Official PcOne PostGenerator.
+
+
+CHANGELOG for this release:
+
+v3.1.1
+[2016-03-08]
+	- (fixed) Minor issues
+
+v3.1.0
+[2016-01-08]
+	- (new) autofill is now usable in movie tab ( IMDB Code Only )
+	- (new) new interface
+	- Public RELEASE
+
+v3.0.1 beta
+[2016-17-07]
+	- (fixed) Posts are now compatible with IPS edit mode
+    - (fixed) URLs point to actual address
+    - (fixed) Links in multiple lines appears correctly
+    - (fixed) other minor changes
+	- BETA RELEASE For Moderators
+
+v2.0.1
+[2015-25-12]
+	- (fixed) Compatibility for IP Suit 4
+	- (fixed) BBcode free
+	- (new) Adobe air 20
+	- BETA RELEASE
+
+v1.1.2
+[2015-31-03]
+	- (fixed) Minor issues
+	- (new) Adobe air 17
+
+v1.1.1
+[2014-11-21]
+	- (fixed) Minor issues and some Updates.
+	- First Public INITIAL RELEASE
+
+v1.1.0
+[2014-11-08]
+	- (fixed) Minor issues and some Updates.
+	- (new) Added Remote Updates.
+
+v1.0.0
+[2014-11-08]
+	- BETA RELEASE For Moderators.
+
+v0.8.0
+[2014-10-07]
+	- (fixed) Minor issues and some Updates.
+	
+v0.5.0
+[2014-10-14]
+	- (fixed) Minor issues and some Updates.
+	- (new) Completely redesigned.
+	
+v0.1.0
+[2014-10-08]
+	- Alpha release.
+	- Rebuild & Rewritten Exclusively For PcOne.Us By Sia7asH.
+	- Air SDK Updated to 2.5
+
+To Do
+	- Link(s) Checker for Download Link(s)
+
+	
+Enjoy Your Digital Life! :)

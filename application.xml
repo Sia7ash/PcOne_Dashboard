@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/2.0">
+  <filename>PcOne Dashboard</filename>
+  <description>Dashboard For PcOne.Us
+Copyright 2014-2016 ®©™
+By Sia7asH</description>
+  <copyright>Sia7asH@Me.Com</copyright>
+  <customUpdateUI>false</customUpdateUI>
+  <id>com.pcone.pdash</id>
+  <version>3.1.1</version>
+  <initialWindow>
+    <content>main.html</content>
+    <height>600</height>
+    <width>800</width>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+  </initialWindow>
+  <icon>
+    <image128x128>img/icons/pdash-128.png</image128x128>
+    <image48x48>img/icons/pdash-48.png</image48x48>
+    <image32x32>img/icons/pdash-32.png</image32x32>
+    <image16x16>img/icons/pdash-16.png</image16x16>
+  </icon>
+  <fileTypes>
+    <fileType>
+      <name>pdash</name>
+      <extension>pdash</extension>
+      <description>PCONE Dashboard Session File</description>
+      <contentType>text/plain</contentType>
+      <icon>
+        <image128x128>img/icons/pdash-128.png</image128x128>
+        <image48x48>img/icons/pdash-48.png</image48x48>
+        <image32x32>img/icons/pdash-32.png</image32x32>
+        <image16x16>img/icons/pdash-16.png</image16x16>
+      </icon>
+    </fileType>
+  </fileTypes>
+</application>
